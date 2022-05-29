@@ -16,7 +16,7 @@ body{
     height: 100vh;
     display: grid;
     place-items: center;
-    background-image: url('/bg-pattern-top.svg'), url('bg-pattern-bottom.svg');
+    background-image: url('bg-pattern-top.svg'), url('bg-pattern-bottom.svg');
     background-position: calc(50% - 60vw) calc(50% - 60vh), calc(50% + 60vw) calc(50% + 60vh);
     background-repeat: no-repeat, no-repeat;
     background-size: cover, cover;
@@ -32,7 +32,7 @@ body{
 }
 
 .top{
-    background-image: url('/bg-pattern-card.svg');
+    background-image: url('bg-pattern-card.svg');
     background-color: #fff;
     position: relative;
     border-top-left-radius: 30px;
