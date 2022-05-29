@@ -22,11 +22,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
-
+- Desktop: https://github.com/joeehis1/profile-card-fem.github.io/blob/ff23d1a2af9dab2ebb36e2ac05ba5de768bdf9b7/Desktop.png
+- Mobile: https://github.com/joeehis1/profile-card-fem.github.io/blob/ff23d1a2af9dab2ebb36e2ac05ba5de768bdf9b7/Mobile.png
+- 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/joeehis1/profile-card-fem.github.io
+- Live Site URL: https://joeehis1.github.io/profile-card-fem.github.io/
 
 ## My process
 
